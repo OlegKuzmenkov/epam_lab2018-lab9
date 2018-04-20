@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NrgNavigationViewApplication</string>
+    <string name="app_message"> You are welcome </string>
+    <string name="header_title">Show fragment from list</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="first_fragment_title">It is first fragment</string>
+    <string name="second_fragment_title">It is second fragment</string>
+</resources>
